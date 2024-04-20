@@ -1,0 +1,5 @@
+SampleName	SNP_Marker	SNP_Genotype	AlleleRatio	Type	TotalDepth	A	T	C	G	QC_Info
+test	Popu.rs114514	AA	0	Homo	1919	1919	810	810	1	-
+test	ID.rs268	AA	0	Homo	3570	3555	1	1	13	-
+test	ID.rs5745448	TT	0	WT	782	0	780	2	0	-
+test	ID.rs1049500	AA	0	Homo	1044	1037	0	0	7	-
